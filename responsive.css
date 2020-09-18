@@ -1,0 +1,56 @@
+
+@media(max-width:504px){
+    .footer-text {
+       
+        margin-left: -212px;
+    }
+
+    .img-last {
+     
+        margin-left: -45px;
+    }
+
+
+   
+   
+    .help-section-text p {
+        /* position: absolute; */
+       
+     
+        left: 235px;
+        font-size: 15px;
+    }
+
+    .technology {
+        margin-left: 59px;
+    }
+
+
+
+.navigation {
+    
+    position: relative;
+    top: -1466px;
+   
+}
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
